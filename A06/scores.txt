@@ -1,0 +1,317 @@
+You chose rock!
+Computer chose paper!
+You lost!
+
+You chose rock!
+Computer chose paper!
+You lost!
+
+You chose paper!
+Computer chose rock!
+You win!
+
+You chose scissors!
+Computer chose scissors!
+It's a tie!
+
+Final score is-- Player: 1 / Computer: 1 / Ties: 1
+===================================
+
+You chose rock!
+Computer chose rock!
+It's a tie!
+
+You chose paper!
+Computer chose paper!
+It's a tie!
+
+You chose scissors!
+Computer chose scissors!
+It's a tie!
+
+You chose rock!
+Computer chose scissors!
+You win!
+
+You chose paper!
+Computer chose scissors!
+You lost!
+
+You chose scissors!
+Computer chose scissors!
+It's a tie!
+
+You chose rock!
+Computer chose rock!
+It's a tie!
+
+You chose rock!
+Computer chose rock!
+It's a tie!
+
+You chose scissors!
+Computer chose rock!
+You lost!
+
+Final score is-- Player: 1 / Computer: 2 / Ties: 6
+===================================
+
+You chose rock!
+Computer chose paper!
+You lost!
+
+You chose rock!
+Computer chose rock!
+It's a tie!
+
+You chose paper!
+Computer chose scissors!
+You lost!
+
+You chose scissors!
+Computer chose rock!
+You lost!
+
+You chose paper!
+Computer chose rock!
+You win!
+
+You chose rock!
+Computer chose rock!
+It's a tie!
+
+You chose paper!
+Computer chose scissors!
+You lost!
+
+You chose scissors!
+Computer chose rock!
+You lost!
+
+You chose paper!
+Computer chose rock!
+You win!
+
+You chose rock!
+Computer chose paper!
+You lost!
+
+You chose rock!
+Computer chose rock!
+It's a tie!
+
+You chose paper!
+Computer chose paper!
+It's a tie!
+
+You chose scissors!
+Computer chose rock!
+You lost!
+
+You chose paper!
+Computer chose rock!
+You win!
+
+You chose rock!
+Computer chose paper!
+You lost!
+
+You chose rock!
+Computer chose rock!
+It's a tie!
+
+You chose paper!
+Computer chose paper!
+It's a tie!
+
+You chose scissors!
+Computer chose scissors!
+It's a tie!
+
+You chose scissors!
+Computer chose paper!
+You win!
+
+You chose rock!
+Computer chose scissors!
+You win!
+
+You chose rock!
+Computer chose paper!
+You lost!
+
+You chose paper!
+Computer chose scissors!
+You lost!
+
+You chose scissors!
+Computer chose paper!
+You win!
+
+You chose paper!
+Computer chose scissors!
+You lost!
+
+You chose rock!
+Computer chose paper!
+You lost!
+
+You chose scissors!
+Computer chose rock!
+You lost!
+
+You chose paper!
+Computer chose paper!
+It's a tie!
+
+You chose scissors!
+Computer chose scissors!
+It's a tie!
+
+You chose paper!
+Computer chose scissors!
+You lost!
+
+You chose rock!
+Computer chose paper!
+You lost!
+
+You chose scissors!
+Computer chose rock!
+You lost!
+
+You chose paper!
+Computer chose scissors!
+You lost!
+
+You chose rock!
+Computer chose rock!
+It's a tie!
+
+You chose paper!
+Computer chose scissors!
+You lost!
+
+You chose paper!
+Computer chose rock!
+You win!
+
+You chose rock!
+Computer chose scissors!
+You win!
+
+You chose scissors!
+Computer chose scissors!
+It's a tie!
+
+You chose rock!
+Computer chose scissors!
+You win!
+
+You chose paper!
+Computer chose rock!
+You win!
+
+You chose scissors!
+Computer chose rock!
+You lost!
+
+You chose paper!
+Computer chose scissors!
+You lost!
+
+You chose rock!
+Computer chose rock!
+It's a tie!
+
+You chose paper!
+Computer chose rock!
+You win!
+
+You chose scissors!
+Computer chose paper!
+You win!
+
+You chose paper!
+Computer chose scissors!
+You lost!
+
+You chose rock!
+Computer chose scissors!
+You win!
+
+You chose paper!
+Computer chose scissors!
+You lost!
+
+You chose paper!
+Computer chose scissors!
+You lost!
+
+You chose paper!
+Computer chose paper!
+It's a tie!
+
+You chose paper!
+Computer chose scissors!
+You lost!
+
+You chose paper!
+Computer chose rock!
+You win!
+
+You chose paper!
+Computer chose scissors!
+You lost!
+
+You chose paper!
+Computer chose scissors!
+You lost!
+
+You chose paper!
+Computer chose scissors!
+You lost!
+
+You chose paper!
+Computer chose paper!
+It's a tie!
+
+You chose paper!
+Computer chose paper!
+It's a tie!
+
+You chose paper!
+Computer chose rock!
+You win!
+
+You chose paper!
+Computer chose paper!
+It's a tie!
+
+You chose paper!
+Computer chose rock!
+You win!
+
+You chose paper!
+Computer chose scissors!
+You lost!
+
+You chose paper!
+Computer chose scissors!
+You lost!
+
+You chose paper!
+Computer chose rock!
+You win!
+
+You chose paper!
+Computer chose scissors!
+You lost!
+
+You chose paper!
+Computer chose paper!
+It's a tie!
+
+Final score is-- Player: 17 / Computer: 29 / Ties: 17
+===================================
+
